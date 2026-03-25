@@ -1,6 +1,7 @@
 from tenable.io import TenableIO
 
 # Tenable.io API credentials
+# Please use a secret manager!
 access_key = "YOUR_ACCESS_KEY"
 secret_key = "YOUR_SECRET_KEY"
 
